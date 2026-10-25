@@ -1,6 +1,6 @@
 # Vefforritun 1, 2026, hópverkefni 2
 
-Útgáfa 0.1.
+Útgáfa 0.2.
 
 Verkefnið felst í því að smíða vef eftir forskrift með HTML, CSS og JavaScript.
 
@@ -173,7 +173,14 @@ Setja skal verkefnið upp á Netlify, tengt GitHub.
 
 ## Aðstoð
 
-Ekki er heimilt að nota stór mállíkön til að vinna verkefni í námskeiðinu, [sjá nánar um notkun](https://github.com/vefforritun/vef1-2026/blob/main/mallikon.md).
+Almennt er ekki heimilt að nota stór mállíkön til að vinna verkefni í námskeiðinu, [sjá nánar um notkun](https://github.com/vefforritun/vef1-2026/blob/main/mallikon.md).
+
+Í þessu verkefni má útfæra einn virknihluta með mállíkana, gera skal það sem sér PR þar sem sýnt er fram á hvernig kóði var yfirfarinn og prófaður. Í lýsingu á PR er tekið fram:
+
+1. Hvaða tól var notað
+2. Hvaða prompt var notað
+3. Hvernig virkni var staðfest og prófuð
+4. Hvernig gekk að nota, virkaði það í fyrsta?
 
 ## Mat
 
@@ -229,3 +236,4 @@ Nýjustu útgáfu af verkefni má [nálgast á GitHub](https://github.com/veffor
 | Útgáfa | Lýsing        |
 | ------ | ------------- |
 | 0.1    | Fyrsta útgáfa |
+| 0.2    | Um LLM notkun |
